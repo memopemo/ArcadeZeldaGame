@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EnemyDefault
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 6a0f18ccf9d8f0742b8a99a8b9f0c202, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: pointsGiven
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: pointParticles.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: pointParticles.Array.data[0]
+    value: 
+    objectReference: {fileID: 552585496814844224, guid: 8ca9df563666b6348a306f9233078b72, type: 3}
+  - target: {fileID: 0}
+    propertyPath: pointParticles.Array.data[1]
+    value: 
+    objectReference: {fileID: 5630542988279424875, guid: fb0ac58a8e7244f4c9b23c0ae03261f0, type: 3}
+  - target: {fileID: 0}
+    propertyPath: pointParticles.Array.data[2]
+    value: 
+    objectReference: {fileID: 6617778454628913172, guid: 1d60067aab2ef5d4aaeb726d8caff5f4, type: 3}
+  - target: {fileID: 0}
+    propertyPath: pointParticles.Array.data[3]
+    value: 
+    objectReference: {fileID: 7592701346619936988, guid: a803ad6abbf662a4c9d3a64704c4eae0, type: 3}
+  - target: {fileID: 0}
+    propertyPath: explode
+    value: 
+    objectReference: {fileID: 7917098592250611179, guid: 48a0db0ae8bfac24e8a29d7d81f77a0c, type: 3}
+  m_ExcludedProperties: []
